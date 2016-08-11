@@ -16,6 +16,6 @@ et mag- nis dis parturient montes, nascetur ridiculus mus. Aliquam
 tincidunt urna. Nulla ullam- corper vestibulum turpis. Pellentesque
 cursus luctus mauris.
 
- - [Capítulo 1](./cap01.hmtl)
- - [Capítulo 2](./cap02.hmtl)
- - [Capítulo 3](./cap03.hmtl)
+ - [Capítulo 1](./cap01.html)
+ - [Capítulo 2](./cap02.html)
+ - [Capítulo 3](./cap03.html)
