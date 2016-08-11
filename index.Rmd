@@ -1,0 +1,21 @@
+---
+title: Página inicial
+author: EERJ
+date: "`r format(Sys.time(), '%d de %B de %Y')`"
+---
+
+# Home Page #
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel,
+wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at,
+lobortis vitae, ultricies et, tellus. Donec aliquet, tor- tor sed
+accumsan bibendum, erat ligula ali- quet magna, vitae ornare odio metus
+a mi.  Morbi ac orci et nisl hendrerit mollis. Suspen- disse ut
+massa. Cras nec ante. Pellentesque a nulla. Cum sociis natoque penatibus
+et mag- nis dis parturient montes, nascetur ridiculus mus. Aliquam
+tincidunt urna. Nulla ullam- corper vestibulum turpis. Pellentesque
+cursus luctus mauris.
+
+ - [Capítulo 1](./cap01.hmtl)
+ - [Capítulo 2](./cap02.hmtl)
+ - [Capítulo 3](./cap03.hmtl)
