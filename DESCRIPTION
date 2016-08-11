@@ -1,5 +1,4 @@
 Package: book-test
 Title: Teste bookdown e commits automáticos
 Version: 0.0.1
-Imports: bookdown
-Remotes: rstudio/bookdown
+Imports: rmarkdown
